@@ -1,2 +1,0 @@
-# FavoriteFoodUnorederedList
-Created with CodeSandbox
